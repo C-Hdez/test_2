@@ -9,18 +9,5 @@ ar_internal_metadata:
   records: 
   - - environment
     - development
-    - 2024-08-23 18:38:01.445405000 Z
-    - 2024-08-23 18:38:01.445405000 Z
-
----
-books:
-  columns:
-  - id
-  - title
-  - created_at
-  - updated_at
-  records: 
-  - - 1
-    - Book
-    - 2024-08-23 18:48:14.129373000 Z
-    - 2024-08-23 18:48:14.129373000 Z
+    - 2024-09-08 21:30:18.620893000 Z
+    - 2024-09-08 21:30:18.620893000 Z
